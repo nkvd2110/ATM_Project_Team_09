@@ -1,0 +1,30 @@
+TEAM 09
+
+Member:
+Nguyen Khanh Viet Dung (leader)	- 1607859
+Nguyen Thanh Tung				- 1607930
+Nguyen Trung Hieu				- 1677260
+
+Detailed information about contributions to the project:
+
+Nguyen Khanh Viet Dung:
+- Contribute to "login and create account" functions
+- Done all works related to account  (withdraw, deposit, transfer, friendlist)
+- Create function to take data from file txt to object and apply from object to file txt
+- Finish the Account class
+- Tester and fix all error for team member
+
+Nguyen Thanh Tung:
+- Create a "framework" file for the "Account" class
+- Tester (find logic error and input validation)
+
+Nguyen Trung Hieu:
+- Contribute to create Menu for program
+- Contributed to some functions for "login and create account" using <random> library
+- Tester for "login and create account"
+
+Flowchart for this project by {nkvd2110} will not be sent along with this project 
+Some contributed file by team member will be sent along with this project
+
+
+This file was written and created by Nguyen Khanh Viet Dung. All content was approved by group members.
