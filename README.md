@@ -1,13 +1,11 @@
 # ATM_Project_Team_09
 
-This project was done by Nguyen Khanh Viet Dung
+This project was done by Nguyen Khanh Viet Dung using Visual Studio 2022
 with helps from instructor of the course and members from .NET community.
 
 INSTRUCTOR INFORMATION:<br>
-Dinh-Van nguyen, Ph.D <br>
+Dinh-Van Nguyen, Ph.D <br>
 HUST
-
-Using Visual Studio 2022
 
 ###Project Requirement
 <br><br>
