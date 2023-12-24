@@ -2,8 +2,8 @@ TEAM 09
 
 Member:
 Nguyen Khanh Viet Dung (leader)	- 1607859
-Nguyen Thanh Tung				- 1607930
-Nguyen Trung Hieu				- 1677260
+Nguyen Thanh Tung		- 1607930
+Nguyen Trung Hieu		- 1677260
 
 Detailed information about contributions to the project:
 
