@@ -35,7 +35,7 @@ bool loginAccount(string& ID, ifstream& inFile) {
 	}
 }
 
-// Get Information from txt file then apply for the pointer currentAccount
+// Get Information from txt file then apply for the pointer currentAccount (nkvd2110)
 
 void getDataFromCurrentAccount(string& ID, Account* currentAccount, ifstream& inFile) {
 
@@ -62,6 +62,7 @@ void getDataFromCurrentAccount(string& ID, Account* currentAccount, ifstream& in
 	delete listFriend;
 }
 
+// open file to apply info from object to txt (nkvd2110)
 void updateDataForAccountFile(string& ID, Account* currentAccount) {
 	ofstream outFile;
 	outFile.open("Account File Folder\\" + ID + ".txt");
@@ -73,6 +74,7 @@ void updateDataForAccountFile(string& ID, Account* currentAccount) {
 	outFile.close();
 }
 
+// This function to finish transfer
 void finishTransfer(transferInfo transferInfo) {
 	if (transferInfo.transferToId != "" && transferInfo.transferAmount > 0) {
 		Account* receiveAccount = new Account;

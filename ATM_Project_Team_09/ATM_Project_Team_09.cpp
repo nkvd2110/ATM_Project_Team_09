@@ -21,7 +21,7 @@ int main() {
 		{	
 
 			string ID = "";
-			ifstream accountFile;
+			ifstream accountFile; //open file txt to login and get data
 
 			if (loginAccount(ID,accountFile)) {
 

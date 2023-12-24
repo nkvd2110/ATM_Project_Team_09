@@ -1,7 +1,15 @@
 # ATM_Project_Team_09
 
 This project was done by Nguyen Khanh Viet Dung
+with helps from instructor of the course and members from .NET community.
 
+INSTRUCTOR INFORMATION:
+Dinh-Van nguyen, Ph.D
+HUST
+
+Using Visual Studio 2022
+
+###Project Requirement
 To login into an ATM, an user needs to have:
 1. ID number (a 10 characters string)
 2. PIN number (a positive 6 digits number)
