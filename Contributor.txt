@@ -8,23 +8,30 @@ Nguyen Trung Hieu				- 1677260
 Detailed information about contributions to the project:
 
 Nguyen Khanh Viet Dung:
-- Contribute to "login and create account" functions
-- Done all works related to account  (withdraw, deposit, transfer, friendlist)
-- Create functions to take data from file txt to object and apply data from object to file txt
-- Finish the Account class
-- Tester and fix all errors for team members
+- Contributed to "login and create account" functions.
+- Done all works related to account  ( info, withdraw, deposit, transfer, friendlist ).
+- Created functions to take data from file txt to object and apply data from object to file txt.
+- Finished the "Account" class.
+- Tester and fixed all errors for team members.
 
 Nguyen Thanh Tung:
-- Create a "framework" file for the "Account" class
-- Tester (find logic error and input validation)
+- Created a "framework" file for the "Account" class.
+- Tester (found logic error and input validation).
 
 Nguyen Trung Hieu:
-- Contribute to create Menu for program
-- Contributed to some functions for "login and create account" using <random> library
-- Tester for "login and create account"
+- Contributed to create Menu for program.
+- Contributed to some functions for "login and create account" using <random> library.
+- Tester for "login and create account".
 
-Flowchart for this project by {nkvd2110} will not be sent along with this project 
-Some contributed file by team member will be sent along with this project
+Note:
+
+- Flowchart for this project by {nkvd2110} will not be sent along with this project. 
+
+- Some contributed file by team member will be sent along with this project.
+
+- If something goes wrong, the source file can be downloaded from nkvd2110 github repo.
+	(https://github.com/nkvd2110/ATM_Project_Team_09)
+	(all commands and request will be stopped from December 25th)
 
 
 This file was written and created by Nguyen Khanh Viet Dung. All content was approved by all team members.
